@@ -1,0 +1,23 @@
+body {
+    background-image: url("./img/backgroundImage.jpg");
+  }
+
+.notebookBackground {
+  background-image: url("./img/formbg.jpg");
+}
+
+
+.inputStyle {
+  left: 135px;
+  padding: 30px 0;
+} 
+
+#notesContainer > div {
+  width: 200px;
+  height: 250px;
+  background-image: url("./img/notebg.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  float: left;
+}
