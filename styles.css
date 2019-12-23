@@ -21,3 +21,9 @@ body {
 
   float: left;
 }
+
+.close-btn {
+    right: 16px;
+    position: relative;
+    top: 5px;
+}
